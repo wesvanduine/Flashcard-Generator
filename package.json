@@ -1,0 +1,22 @@
+{
+  "name": "cloze-constructors",
+  "version": "1.0.0",
+  "description": "Basic and cloze-deleted fashcards",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesvanduine/Flashcard-Generator.git"
+  },
+  "author": "Wes Van Duine",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesvanduine/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/wesvanduine/Flashcard-Generator#readme",
+  "dependencies": {
+    "inquirer": "^3.1.1"
+  }
+}
